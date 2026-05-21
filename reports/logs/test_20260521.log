@@ -1,0 +1,27 @@
+2026-05-21 12:25:38 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:25:38 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:25:38 | INFO     | pages.base_page | Navigating to: https://example.com/
+2026-05-21 12:25:41 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:25:41 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:25:41 | INFO     | pages.base_page | Navigating to: https://example.com/
+2026-05-21 12:26:11 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:11 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:12 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:12 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:12 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:12 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:12 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:13 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:13 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:42 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:42 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:43 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:43 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:43 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:43 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:26:44 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:26:44 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:27:13 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:27:14 | INFO     | pages.base_page | Navigating to: https://example.com/login
+2026-05-21 12:27:14 | DEBUG    | pages.base_page | Filling '#username' with value
+2026-05-21 12:27:14 | DEBUG    | pages.base_page | Filling '#username' with value
